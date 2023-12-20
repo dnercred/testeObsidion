@@ -1,0 +1,62 @@
+    ############Criar Arquivos Em Python
+
+               
+#######################################################
+                       #Variarveis  
+
+#PROGRAMA PRA CRIAR AQUIVOS COM TEXTO PRE ESCRITO PRA .py .js SQL .sh Entre outros
+
+
+
+
+
+
+
+arquivo = open("arquivos.md", "a")
+quantidadeDeAquivos = int(input(f"Atenção digite a quantidade  de Aquivos que vc quer deseja Criar  :"))
+
+
+valorQuantidadeDeArquivos = quantidadeDeAquivos *1
+print(f" valorQuantidadeDeAquivos A Ser Criado Sera De  {quantidadeDeAquivos} BlZ "  )
+print(valorQuantidadeDeArquivos)
+print(f" Otimo vamos criar esta quantidade de  {quantidadeDeAquivos} pra Voçẽ" )
+
+
+
+
+
+## Funçoes
+
+def criarArquivos():
+    for i in arquivo:
+        print("quantidadeDeAquivos")
+
+criarArquivos()
+ 
+#for i in arquivo:
+ ## Adicione na lista
+  #frases =list()
+
+ # frases.append("######## Python ######### \n"
+ #            " \n"
+  #           " \n"
+   #          " \n"
+    #         " \n"
+     #        " \n"
+      #       " \n"
+       #      " \n"
+        #     " \n"
+#
+ #            "# Variaveis Gerais Aqui \n"
+#
+ ##            " \n"
+  #           " \n"
+ #            " \n"
+#             " \n"
+  #           " \n"
+ #            " \n"
+#             " \n"
+
+#             "#Funções Gerais Do Sistema Aqui \n")
+#arquivo.writelines(frases)
+

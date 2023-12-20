@@ -1,0 +1,14 @@
+"""from bs4 import BeautifulSoup
+htmlfile=open("generic_simple.html", mode="r", encoding="utf-8")
+soup= BeautifulSoup(htmlfile)
+
+
+# pŕa ver todos Os parementos da Biblioteca da o comando
+   #print(dir(soup))
+print(soup)
+print(dir(soup))"""
+
+
+from bs4 import BeautifulSoup
+soup = BeautifulSoup("<p>Some<b>bad<i>HTML")
+print(soup.prettify())

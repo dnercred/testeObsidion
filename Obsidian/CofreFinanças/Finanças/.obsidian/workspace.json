@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "2e3e95d4a1ccd0ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "29dc14fdd5e17607",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2daa734d98a590de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anotações Contas A pagar Importante.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8d4a6c9066812431",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Hashtag treinamentos/PastaDeComprovantesHashtag/04.ComprovanteAssinaturaVitaiciaHastag.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "f7f8e94955ccf70b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4255b4b522e7ccb4",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Paythonando/PastaDeComprovantesPaythonando/mes 11.jpeg"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1cfd8009c087a7ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5b5a5af516ddad3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3356fc0238d6e30d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "657c54eb3e42170d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#ContasPagas",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "636ebc0142a2f687",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1fb3a12ca877a0a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3d80f1572b7c7c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eea35e4974673e5e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Anotações Contas A pagar Importante.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2335f7bff1d9c178",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Anotações Contas A pagar Importante.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "75615371a2498488",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "901a31dee63d58c0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Anotações Contas A pagar Importante.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "2daa734d98a590de",
+  "lastOpenFiles": [
+    "ContasPagas.md",
+    "Paythonando/PastaDeComprovantesPaythonando/01.ListaDosComprovantesPaythonando.md",
+    "Paythonando/PastaDeComprovantesPaythonando/mes 11.jpeg",
+    "Anotações Contas A pagar Importante.md",
+    "Hashtag treinamentos/PastaDeComprovantesHashtag/04.ComprovanteAssinaturaVitaiciaHastag.png",
+    "Hashtag treinamentos/PastaDeComprovantesHashtag/01.ListaPagamentosHashtag.md",
+    "Israelaluguel/ComprovanteDeContasPagasIsrael/Comprovante De Pagamento mes 12 2023.jpeg",
+    "Israelaluguel/ComprovanteDeContasPagasIsrael/01.ListaDeComprovantesIsrael.md",
+    "Sem título.canvas",
+    "Paythonando/PastaDeComprovantesPaythonando",
+    "Paythonando",
+    "04.ComprovanteAssinaturaVitaiciaHastag.png.md",
+    "Hashtag treinamentos/PastaDeComprovantesHashtag",
+    "Hashtag treinamentos",
+    "Israelaluguel/ComprovanteDeContasPagasIsrael",
+    "Israelaluguel",
+    "WhatsApp Image 2023-12-11 at 14.53.47.jpeg"
+  ]
+}

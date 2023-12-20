@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "d005a12bdaae2614",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c8b49b640a2efb0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "893f27525ca32db5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "4d4d14de2d9029f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lista de Tarefas A fazer Viver Bem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6287ad99758fe8c1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "34b331b31ce090fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Lideres Viver bem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0a06273a13a27c7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gerentes  Viver bem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "477585aa78c5f522",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gerentes  Viver bem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e74161f55cb77ecb",
+    "type": "split",
+    "children": [
+      {
+        "id": "0fe5bf53b6316926",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "156b27f0aa53cc58",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6dbb5fc4808ebe4c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#TarefasViverBemConcluidas",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9df67f9a16a32c5f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e179e433eb71cd26",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7fffc6eb1678b02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67985d5f56f2c629",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Gerentes  Viver bem.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f9032cbb55726d9c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Gerentes  Viver bem.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b9bb45721b00aaaa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "23cb3d04c80554a0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Gerentes  Viver bem.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "477585aa78c5f522",
+  "lastOpenFiles": [
+    "Setores Viver Bem.md",
+    "Gerentes  Viver bem.md",
+    "ViverBemOrganização.canvas",
+    "Lista de Tarefas A fazer Viver Bem.md",
+    "01.Lideres Viver bem.md",
+    "Pasta Escritórios ViverBem/Escritórios ViverBem.md",
+    "Pasta Escritórios ViverBem",
+    "ListaDePlaninhas"
+  ]
+}

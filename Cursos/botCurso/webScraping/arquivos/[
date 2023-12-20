@@ -1,0 +1,24 @@
+
+
+
+
+
+
+import requests
+
+url2='https://economia.awesomeapi.com.br/last/USD-BRL,EUR-BRL,BTC-BRL'
+#from requests import get
+#from bs4 import BeautifulSoup
+
+#import pandas as pd
+#import numpy as np
+
+import time
+import re
+
+url = 'https://unicode.org/emoji/charts/full-emoji-list.html'
+response = requests.get(url)
+print(response.content)
+print(response.json())
+
+

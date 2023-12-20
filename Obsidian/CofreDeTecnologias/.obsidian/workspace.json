@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "ff48c376601dbecf",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e3d0aa4cf4ee35f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3bfb9a80049bce97",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "5c2101888f2f79b7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "411cedea6cc0c022",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PastaTecnologica/Kotlin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "730428c36d08aa98",
+    "type": "split",
+    "children": [
+      {
+        "id": "99d364a47e6b44e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0f7e5a46269c78f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "63cb426ef1dec03a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#linguagensDeProgramacao",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0f7a930c9f2e6421",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 296.5
+  },
+  "right": {
+    "id": "687982ba850e08ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "31c20024830bc449",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4c4a68311b470dd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "13c900164e586262",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7fa456772f66f0ec",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7915c0e4aaa9e3a9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "63cb426ef1dec03a",
+  "lastOpenFiles": [
+    "PastaTecnologica/Bubble.md",
+    "PastaTecnologica/Execel.md",
+    "PastaTecnologica/Scheme.md",
+    "PastaTecnologica/Lisp.md",
+    "PastaTecnologica/Prolog.md",
+    "PastaTecnologica/Fortran.md",
+    "PastaTecnologica/Ada.md",
+    "PastaTecnologica/Haskell.md",
+    "PastaTecnologica/F charp.md",
+    "PastaTecnologica/Julia.md",
+    "PastaTecnologica/Groovy.md",
+    "PastaTecnologica/Scala.md",
+    "PastaTecnologica/HTML CSS.md",
+    "PastaTecnologica/Perl.md",
+    "PastaTecnologica/arquivo38.md",
+    "PastaTecnologica/Go.md",
+    "PastaTecnologica/MATLAB.md",
+    "PastaTecnologica/Objective-C.md",
+    "PastaTecnologica/Swift.md",
+    "PastaTecnologica/PHP.md",
+    "PastaTecnologica/Xano.md",
+    "PastaTecnologica/PowerBi.md",
+    "PastaTecnologica/Mongo DB.md",
+    "PastaTecnologica/Postegres.md",
+    "PastaTecnologica/Maria DB.md",
+    "PastaTecnologica/Mysql.md",
+    "PastaTecnologica/criandoArquivo2.py~",
+    "PastaTecnologica/4913",
+    "PastaTecnologica/criandoArquivo2.py",
+    "PastaTecnologica/criarArquivosEmShell.sh",
+    "PastaTecnologica/criarArquivosEmPython.py",
+    "PastaTecnologica",
+    "Pasta sem título",
+    "criarArquivosEmShell.sh",
+    "criarArquivosEmPython.py"
+  ]
+}

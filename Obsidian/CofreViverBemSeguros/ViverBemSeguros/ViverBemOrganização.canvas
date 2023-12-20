@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"18159e81ba2f1945","type":"text","text":"Gerentes Viver Bem \n","x":-420,"y":0,"width":250,"height":50,"color":"4"},
+		{"id":"59d2fe08571f6988","type":"text","text":"[[Escritórios ViverBem]]\n* Cidade Jardins\n* Jardim Oriente\n* Taguatinga\n* Minas\n* Contagem\n* Goiania\n\n\n","x":-455,"y":260,"width":285,"height":300},
+		{"id":"52444df1a6c366e3","type":"text","text":"Supervisores Viver Bem \n\n* Karolina\n* Thaila\n* JaniCarla\n* Giovanna\n* Leonardo\n* Vitoria\n* Gustavo\n* Kleybson\n* \n","x":400,"y":134,"width":250,"height":168},
+		{"id":"de716ff4db728e94","type":"text","text":"Gerentes Viver Bem \n\n* Calebe Pascoal\n* Nathalia\n* Thalles Ramanho \n* Lais Vasconcelos","x":-100,"y":260,"width":250,"height":168},
+		{"id":"ca1c46b3afcc89ac","x":-500,"y":700,"width":400,"height":400,"type":"file","file":"Setores Viver Bem.md"}
+	],
+	"edges":[
+		{"id":"ccaa507b6c19fd31","fromNode":"18159e81ba2f1945","fromSide":"bottom","toNode":"59d2fe08571f6988","toSide":"top"},
+		{"id":"a8646f2a0120ea25","fromNode":"59d2fe08571f6988","fromSide":"right","toNode":"de716ff4db728e94","toSide":"left"},
+		{"id":"d5fe2cecbc563b13","fromNode":"de716ff4db728e94","fromSide":"right","toNode":"52444df1a6c366e3","toSide":"left"}
+	]
+}

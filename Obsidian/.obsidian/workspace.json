@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "2840cf9b6b229620",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f7c1e962db93b65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22bf13c7bcb3c2f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CofreCursosDeProgramacao/CofreCursosDeProgramacao/Cursos/TerminalLinux/sddm.conf.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ca470d39dabf07b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "203749902fdc8ef4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "169ee13719ac78da",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a8006c629e1e9a13",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#CriandoPastas",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7402d27c86da70ea",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "acfdf7d6a39f91d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3cdd28a0180eb3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13d57b1314549bbd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CofreCursosDeProgramacao/CofreCursosDeProgramacao/Cursos/TerminalLinux/sddm.conf.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a575fb73c95cb667",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CofreCursosDeProgramacao/CofreCursosDeProgramacao/Cursos/TerminalLinux/sddm.conf.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1a1acc7f8c21fdb3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2f95257a0415370d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CofreCursosDeProgramacao/CofreCursosDeProgramacao/Cursos/TerminalLinux/sddm.conf.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "terminal:Open terminal": false
+    }
+  },
+  "active": "a8006c629e1e9a13",
+  "lastOpenFiles": [
+    "CofreCursosDeProgramacao/CofreCursosDeProgramacao/Cursos/TerminalLinux/bashrc.md",
+    "CofreDeTecnologias/PastaTecnologica/Scheme.md",
+    "CofreDeTecnologias/PastaTecnologica/Lisp.md",
+    "CofreDeTecnologias/PastaTecnologica/Prolog.md",
+    "CofreDeTecnologias/PastaTecnologica/Fortran.md",
+    "CofreDeTecnologias/PastaTecnologica/Ada.md",
+    "CofreDeTecnologias/PastaTecnologica/Haskell.md",
+    "CofreDeTecnologias/PastaTecnologica/F charp.md",
+    "CofreDeTecnologias/PastaTecnologica/FCharp.md",
+    "CofreDeTecnologias/PastaTecnologica/Julia.md",
+    "CofreDeTecnologias/PastaTecnologica/Groovy.md",
+    "CofreDeTecnologias/PastaTecnologica/Scala.md",
+    "CofreDeTecnologias/PastaTecnologica/HTML CSS.md",
+    "CofreDeTecnologias/PastaTecnologica/Perl.md",
+    "CofreDeTecnologias/PastaTecnologica/Go.md",
+    "CofreDeTecnologias/PastaTecnologica/MATLAB.md",
+    "CofreDeTecnologias/PastaTecnologica/Objective-C.md",
+    "CofreDeTecnologias/PastaTecnologica/Swift.md",
+    "CofreDeTecnologias/PastaTecnologica/PHP.md",
+    "CofreDeTecnologias/PastaTecnologica/Xano.md",
+    "CofreDeTecnologias/PastaTecnologica/Execel.md",
+    "CofreDeTecnologias/PastaTecnologica/PowerBi.md",
+    "CofreDeTecnologias/PastaTecnologica/Execell.md",
+    "CofreDeTecnologias/PastaTecnologica/Mongo DB.md",
+    "CofreDeTecnologias/PastaTecnologica/Postegres.md",
+    "CofreDeTecnologias/PastaTecnologica/Maria DB.md",
+    "CofreDeTecnologias/PastaTecnologica/criandoArquivo2.py~",
+    "CofreDeTecnologias/PastaTecnologica/4913",
+    "CofreDeTecnologias/PastaTecnologica/criandoArquivo2.py",
+    "CofreDeTecnologias/PastaTecnologica/criarArquivosEmShell.sh",
+    "CofreDeTecnologias/PastaTecnologica/criarArquivosEmPython.py",
+    "CofreDeTecnologias/PastaTecnologica",
+    "CofreDeTecnologias/Pasta sem título",
+    "CofreDeTecnologias/criarArquivosEmShell.sh",
+    "CofreDeTecnologias/criarArquivosEmPython.py",
+    "CofreDeTecnologias",
+    "Sem título 4.canvas",
+    "ViverBem/boasVIndas.png",
+    "ViverBem/email.png",
+    "ViverBem/visto.png",
+    "ViverBem/video.png",
+    "ViverBem/senha.png",
+    "CofreFinanças/ComprovanteDePagamentos/Comprovante Cartaoes/CartaoDosinha/12Dezembro2023.jpeg",
+    "CofreFinanças/ComprovanteDePagamentos/Comprovante Cartaoes/12Dezembro2023.jpeg",
+    "CofreFinanças/ComprovanteDePagamentos/12Dezembro2023.jpeg",
+    "CofreFinanças/ComprovanteDePagamentos/WhatsApp Image 2023-12-11 at 17.00.41.jpeg",
+    "CofreViverBemSeguros/ViverBemSeguros/ViverBemOrganização.canvas",
+    "CofreViverBemSeguros/ViverBemSeguros/Sem título.canvas",
+    "Sem título 3.canvas",
+    "Markdown/Programação/Mapa Mental De Python.canvas",
+    "Sem título 1.canvas",
+    "Sem título.canvas",
+    "Markdown/EstudosDePorgramacao/EstudosDeProgramacao/Programação/Mapa Mental De Python.canvas",
+    "Sem título 2.canvas"
+  ]
+}

@@ -1,0 +1,64 @@
+[90m[main 2023-12-07T18:42:37.246Z][0m update#setState idle
+[1207/154242.673950:ERROR:elf_dynamic_array_reader.h(64)] tag not found
+[1207/154242.674868:ERROR:elf_dynamic_array_reader.h(64)] tag not found
+[24480:1207/154242.660548:ERROR:check.cc(222)] Check failed: false. 
+[1207/154242.687634:ERROR:directory_reader_posix.cc(42)] opendir /home/denner/.config/Code/Crashpad/attachments/e90573dc-07e6-4e66-a980-914a1f064b0d: No such file or directory (2)
+[24480:1207/154242.697338:ERROR:check.cc(222)] Check failed: false. 
+[24480:1207/154242.697381:ERROR:check.cc(222)] Check failed: false. 
+[24480:1207/154242.697395:ERROR:check.cc(222)] Check failed: false. 
+[24480:1207/154242.731377:ERROR:check.cc(222)] Check failed: false. 
+[24480:1207/154243.223481:ERROR:check.cc(222)] Check failed: false. 
+[24480:1207/154243.223548:ERROR:check.cc(222)] Check failed: false. 
+[24480:1207/154243.223581:ERROR:check.cc(222)] Check failed: false. 
+[24480:1207/154243.223602:ERROR:check.cc(222)] Check failed: false. 
+[24480:1207/154243.228257:ERROR:check.cc(222)] Check failed: false. 
+[24480:1207/154243.278363:ERROR:check.cc(222)] Check failed: false. 
+[90m[main 2023-12-07T18:42:55.376Z][0m Extension host with pid 24622 exited with code: 0, signal: unknown.
+[90m[main 2023-12-07T18:43:07.251Z][0m update#setState checking for updates
+[90m[main 2023-12-07T18:43:07.478Z][0m update#setState idle
+[24480:1207/155157.647300:ERROR:network_service_instance_impl.cc(558)] Network service crashed, restarting service.
+[91m[main 2023-12-07T18:51:57.658Z][0m ptyHost terminated unexpectedly with code 0
+[24480:1207/155157.671789:ERROR:zygote_communication_linux.cc(291)] Failed to send GetTerminationStatus message to zygote
+[24480:1207/155157.676361:ERROR:zygote_communication_linux.cc(291)] Failed to send GetTerminationStatus message to zygote
+[91m[main 2023-12-07T18:51:57.677Z][0m CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+[90m[main 2023-12-07T18:51:57.716Z][0m Extension host with pid 25118 exited with code: 0, signal: unknown.
+Error sending from webFrameMain:  Error: Render frame was disposed before WebFrameMain could be accessed
+    at s.send (node:electron/js2c/browser_init:2:94070)
+    at _.send (node:electron/js2c/browser_init:2:79220)
+    at P.send (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:36:95837)
+    at O.p (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:40:4458)
+    at O.o (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:40:4423)
+    at O.m (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:40:4289)
+    at w.value (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:41:284)
+    at h.y (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:35:1902)
+    at h.z (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:35:1972)
+    at h.fire (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:35:2188)
+    at w.value (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:105:53914)
+    at h.y (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:35:1902)
+    at h.fire (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:35:2119)
+    at ForkUtilityProcess.be (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:33:30704)
+    at ForkUtilityProcess.emit (node:events:513:28)
+    at ForkUtilityProcess.a.emit (node:electron/js2c/browser_init:2:75436)
+Error sending from webFrameMain:  Error: Render frame was disposed before WebFrameMain could be accessed
+    at s.send (node:electron/js2c/browser_init:2:94070)
+    at _.send (node:electron/js2c/browser_init:2:79220)
+    at P.send (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:36:95837)
+    at O.p (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:40:4458)
+    at O.o (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:40:4423)
+    at O.m (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:40:4289)
+    at H.then.Error.m.id (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:40:5208)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[24480:1207/155157.747609:ERROR:gpu_process_host.cc(952)] GPU process launch failed: error_code=1002
+[24480:1207/155157.748731:ERROR:gpu_process_host.cc(952)] GPU process launch failed: error_code=1002
+[24480:1207/155157.749667:ERROR:gpu_process_host.cc(952)] GPU process launch failed: error_code=1002
+[24480:1207/155157.750538:ERROR:gpu_process_host.cc(952)] GPU process launch failed: error_code=1002
+[24480:1207/155157.751454:ERROR:gpu_process_host.cc(952)] GPU process launch failed: error_code=1002
+[24480:1207/155157.753661:ERROR:gpu_process_host.cc(952)] GPU process launch failed: error_code=1002
+[24480:1207/155157.755505:ERROR:gpu_process_host.cc(952)] GPU process launch failed: error_code=1002
+[24480:1207/155157.764210:ERROR:gpu_process_host.cc(952)] GPU process launch failed: error_code=1002
+[24480:1207/155157.765685:ERROR:gpu_process_host.cc(952)] GPU process launch failed: error_code=1002
+[24480:1207/155157.765809:FATAL:gpu_data_manager_impl_private.cc(431)] GPU process isn't usable. Goodbye.
+[1207/155157.778209:ERROR:elf_dynamic_array_reader.h(64)] tag not found
+[1207/155157.778734:ERROR:elf_dynamic_array_reader.h(64)] tag not found
+[1207/155157.779647:ERROR:elf_dynamic_array_reader.h(64)] tag not found
+[1207/155157.807441:ERROR:directory_reader_posix.cc(42)] opendir /home/denner/.config/Code/Crashpad/attachments/f3ed245b-06a9-488a-a433-eccd15b1a9ef: No such file or directory (2)

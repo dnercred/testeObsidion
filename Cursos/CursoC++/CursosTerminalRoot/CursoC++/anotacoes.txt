@@ -1,0 +1,22 @@
+Como compliar os Codigos em C++
+
+
+
+
+Lista de Extensoes que sao usadas Pra o C++ e seus Coompiladoresa
+   AS Extensoes De C++ sao : 
+     
+
+
+     .C
+     .cc
+     .cpp
+     .cxx
+     .c++
+     .h
+     .hh
+     .hpp
+     .hxx
+     .h++
+
+   
